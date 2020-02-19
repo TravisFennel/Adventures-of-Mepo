@@ -1,7 +1,7 @@
 site_name: Adventures of Mepo
 site_author: Travis Fennel
 repo_name: 'Adventores-of-Mepo'
-#repo_url: https://github.com/denchief515/Adventures-of-Mepo/
+#repo_url: https://github.com/TravisFennel/Adventures-of-Mepo/
 theme: windmill-dark
 nav:
   - Home: index.md
